@@ -38,6 +38,6 @@
 
 ## Onde me encontrar
 <br/>
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/pietrohenrique-dev)](linkedin.com/in/pietrohenrique-dev)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hiquepietro@gmil.com)](mailto:hiquepietro@gmil.com)
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=Pietro)](linkedin.com/in/pietrohenrique-dev)
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:)](mailto:hiquepietro@gmil.com)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
